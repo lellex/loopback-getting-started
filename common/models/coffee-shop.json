@@ -1,6 +1,6 @@
 {
   "name": "CoffeeShop",
-  "plural": "Y",
+  "plural": "CoffeeShops",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {

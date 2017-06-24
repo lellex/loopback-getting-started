@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "ClearDB": {
+    "host": "eu-cdbr-west-01.cleardb.com",
+    "port": 3306,
+    "url": "mysql://b784641c89ab08:5950cabb@eu-cdbr-west-01.cleardb.com/heroku_ed267e963838270?reconnect=true",
+    "database": "heroku_ed267e963838270",
+    "password": "5950",
+    "name": "ClearDB",
+    "user": "b784641c89ab0",
+    "connector": "mysql"
   }
 }
