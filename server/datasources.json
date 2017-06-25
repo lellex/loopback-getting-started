@@ -12,5 +12,14 @@
     "name": "ClearDB",
     "user": "b784641c89ab0",
     "connector": "mysql"
+  },
+  "mongoDs": {
+    "host": "demo.strongloop.com",
+    "port": 27017,
+    "database": "getting_started_intermediate",
+    "username": "demo",
+    "password": "L00pBack",
+    "name": "mongoDs",
+    "connector": "mongodb"
   }
 }
